@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Output files
+output.csv
+results.xlsx
+test_result.xlsx
